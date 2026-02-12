@@ -34,7 +34,7 @@ here we must to use double power supplies, one is "5.4v" and another one is "5.0
 
 # Description
 
-some transistors used in this big project, some of them are for the fast blinker, and some of them is for the Arduino systems
+some transistors used in this big project, some of them are for the fast blinker, and some of them are for the Arduino systems
 
 used to be the knowledge of transistor systems, Seems complex but it's actually easy, just like switch but it's more electronic
 
