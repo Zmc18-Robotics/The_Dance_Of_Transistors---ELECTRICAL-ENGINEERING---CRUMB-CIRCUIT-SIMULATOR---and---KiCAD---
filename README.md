@@ -26,7 +26,8 @@ here we must to use double power supplies, one is "5.4v" and another one is "5.0
 
 # Electrical Circuit :
 
-![Circuit_and_KiCAD_page-0001 (3) (1)](https://github.com/user-attachments/assets/a3793a5a-57f6-446c-8199-6f299c93d6a1)
+![Circuit_and_KiCAD_page-0001 (3) (2)](https://github.com/user-attachments/assets/7e054a36-66d4-4572-a1a0-2a715775187d)
+
 
 
 ---
