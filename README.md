@@ -50,6 +50,7 @@ Here the materials :
 - Switch SPST x2
 - Push Button x2
 - Power Supply x2
+- Capacitor 3.3µF x1
 
 ---
 
