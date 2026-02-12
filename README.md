@@ -12,10 +12,11 @@
 here we must to use double power supplies, one is "5.4v" and another one is "5.0v"
 
 
-![WhatsApp Image 2026-02-13 at 02 50 01](https://github.com/user-attachments/assets/81007337-87d4-44bc-a621-ecca1cbe51c8)
+![WhatsApp Image 2026-02-13 at 02 50 01](https://github.com/user-attachments/assets/bd3d593e-82cb-4ed6-8903-7e5823aba2d8)
 
 
-![WhatsApp Image 2026-02-13 at 02 50 23](https://github.com/user-attachments/assets/54e8cb35-19b8-484c-ad56-e30727393c7c)
+![WhatsApp Image 2026-02-13 at 02 50 23](https://github.com/user-attachments/assets/414907d2-8eb3-4bc3-b877-a671738a9886)
+
 
 
 <img width="1219" height="781" alt="image" src="https://github.com/user-attachments/assets/a6c67420-e41c-4e8b-8e6c-2191371f05fe" />
