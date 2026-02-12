@@ -12,17 +12,21 @@
 here we must to use double power supplies, one is "5.4v" and another one is "5.0v"
 
 
-![WhatsApp Image 2026-02-13 at 02 18 13](https://github.com/user-attachments/assets/d0431a84-06fd-48d8-b71e-4c9c66ed952c)
+![WhatsApp Image 2026-02-13 at 02 50 01](https://github.com/user-attachments/assets/81007337-87d4-44bc-a621-ecca1cbe51c8)
 
 
-![WhatsApp Image 2026-02-13 at 02 18 32](https://github.com/user-attachments/assets/640be1de-97d5-4ae1-a119-82b5add7b163)
+![WhatsApp Image 2026-02-13 at 02 50 23](https://github.com/user-attachments/assets/54e8cb35-19b8-484c-ad56-e30727393c7c)
+
+
+<img width="1219" height="781" alt="image" src="https://github.com/user-attachments/assets/a6c67420-e41c-4e8b-8e6c-2191371f05fe" />
 
 
 ---
 
 # Electrical Circuit :
 
-![Circuit_and_KiCAD_page-0001 (2)](https://github.com/user-attachments/assets/11afc878-5503-4349-bc69-f716283c8c4f)
+![Circuit_and_KiCAD_page-0001 (3)](https://github.com/user-attachments/assets/f456c3cf-0b1a-4843-ade7-269da582d2e7)
+
 
 
 ---
