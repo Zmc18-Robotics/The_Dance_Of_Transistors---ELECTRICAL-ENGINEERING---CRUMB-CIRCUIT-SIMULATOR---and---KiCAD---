@@ -9,7 +9,7 @@
 
 <img width="860" height="342" alt="sc2" src="https://github.com/user-attachments/assets/d03cf603-7ba6-4df3-98ff-261816f1eacb" />
 
-here we must to use double power supplies, one is "5.4v" and another one is "5.0v"
+here I use 2 power supplies, one is "5.4v" and another one is "5.0v". but you actually can use 1 only, but yeah the game is kinda buggy so i use 2 for the different voltage
 
 
 ![WhatsApp Image 2026-02-13 at 02 50 01](https://github.com/user-attachments/assets/bd3d593e-82cb-4ed6-8903-7e5823aba2d8)
@@ -50,7 +50,7 @@ Here the materials :
 - Passive Buzzer x1
 - Switch SPST x2
 - Push Button x2
-- Power Supply x2
+- Power Supply x ( 1 or 2 )
 - Capacitor 3.3µF x1
 
 ---
