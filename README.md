@@ -12,14 +12,13 @@
 here I use 2 power supplies, one is "5.4v" and another one is "5.0v". but you actually can use 1 only, but yeah the game is kinda buggy so i use 2 for the different voltage
 
 
-![WhatsApp Image 2026-02-13 at 02 50 01](https://github.com/user-attachments/assets/bd3d593e-82cb-4ed6-8903-7e5823aba2d8)
+<img width="426" height="355" alt="image" src="https://github.com/user-attachments/assets/9bee8fe8-b4bf-446c-a838-7dc1cc2da168" />
 
 
-![WhatsApp Image 2026-02-13 at 02 50 23](https://github.com/user-attachments/assets/414907d2-8eb3-4bc3-b877-a671738a9886)
+<img width="482" height="413" alt="image" src="https://github.com/user-attachments/assets/503da869-13a0-4e91-a8ea-e526c89a5511" />
 
 
-
-<img width="1219" height="781" alt="image" src="https://github.com/user-attachments/assets/a6c67420-e41c-4e8b-8e6c-2191371f05fe" />
+<img width="433" height="376" alt="image" src="https://github.com/user-attachments/assets/28c704b7-60ef-47fc-af11-b664c5ab06bd" />
 
 
 ---
