@@ -15,10 +15,10 @@ here I use 2 power supplies, one is "5.4v" and another one is "5.0v". but you ac
 <img width="426" height="355" alt="image" src="https://github.com/user-attachments/assets/9bee8fe8-b4bf-446c-a838-7dc1cc2da168" />
 
 
-<img width="482" height="413" alt="image" src="https://github.com/user-attachments/assets/503da869-13a0-4e91-a8ea-e526c89a5511" />
+<img width="438" height="374" alt="SC3" src="https://github.com/user-attachments/assets/0e80fb9a-e6fc-4691-abf3-a8e20bea04ca" />
 
 
-<img width="434" height="373" alt="image" src="https://github.com/user-attachments/assets/a6b58201-a1f4-423e-8901-666bddd2c67a" />
+<img width="441" height="378" alt="SC4" src="https://github.com/user-attachments/assets/2351c287-2c20-47ab-9b66-8e4c21e7330d" />
 
 
 ---
