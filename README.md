@@ -18,7 +18,7 @@ here I use 2 power supplies, one is "5.4v" and another one is "5.0v". but you ac
 <img width="482" height="413" alt="image" src="https://github.com/user-attachments/assets/503da869-13a0-4e91-a8ea-e526c89a5511" />
 
 
-<img width="433" height="376" alt="image" src="https://github.com/user-attachments/assets/28c704b7-60ef-47fc-af11-b664c5ab06bd" />
+<img width="434" height="373" alt="image" src="https://github.com/user-attachments/assets/a6b58201-a1f4-423e-8901-666bddd2c67a" />
 
 
 ---
